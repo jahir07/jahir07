@@ -26,11 +26,11 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for PHP, Laravel, WordPress, Alpine.js, Vue.js, React.js, TailwindCSS, Bootstrap etc.
+I am a Full Stack Developer with a huge love for PHP, Laravel, WordPress, Alpine.js, Vue.js, React.js, TailwindCSS, Bootstrap and System Architecture.
 
 Currently, **I'm open to work and employment opportunities**.
 
-I am the founder of [htmlmate](https://htmlmate.com) & [xstheme](https://xstheme.com). I Actively code on WordPress themes and plugins, Laravel, Vuejs, Nuxtjs and APIs (in-house, end user products, and consumers) every day.
+I am the founder of [htmlmate](https://htmlmate.com) & [xstheme](https://htmlmate.com). I Actively code on WordPress themes and plugins, Laravel, Vuejs, Nuxtjs and APIs (in-house, end user products, and consumers) every day.
 
 I love to Play Games specially Fifa and was a big fan of Humanyun Ahmed (Bangladeshi novelist).
 
@@ -53,6 +53,4 @@ I love to Play Games specially Fifa and was a big fan of Humanyun Ahmed (Banglad
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahir07/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jahir07)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahir07/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jahir07)
