@@ -30,7 +30,7 @@ I am a Full Stack Developer with a huge love for PHP, Laravel, WordPress, Alpine
 
 Currently, **I'm open to work and employment opportunities**.
 
-I am the founder of [htmlmate](https://htmlmate.com) & [xstheme](https://htmlmate.com). I Actively code on WordPress themes and plugins, Laravel, Vuejs, Nuxtjs and APIs (in-house, end user products, and consumers) every day.
+I Actively code on PHP, Laravel, Vuejs, Nuxtjs, WordPress themes and plugins, and APIs (in-house, end user products, and consumers) every day.
 
 I love to Play Games specially Fifa and was a big fan of Humanyun Ahmed (Bangladeshi novelist).
 
