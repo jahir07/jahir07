@@ -34,13 +34,13 @@ I Actively code on PHP, Laravel, Vuejs, Nuxtjs, WordPress themes and plugins, an
 
 I love to Play Games specially Fifa and was a big fan of Humanyun Ahmed (Bangladeshi novelist).
 
-- 🔭 I’m currently creating some wp plugins and laravel application.
+- 🔭 I’m currently creating wp plugins, wp themes and laravel application.
 - 🌱 I’m currently learning many things in deeply specially devOps, AWS, Docker etc.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about PHP, WordPress, Laravel, HTML & CSS.
 - 📫 I am just one mail away - [mamun3d at gmail dot com]
 - :partying_face: Fun fact: I love to play video games like mafia, fifa.. 😄, I love adda & travel.
-- :wrench: Tools - VSCode, Insomnia, Sublime Text, PhpStorm, Valet, Docker, Mac and Linux.
+- :wrench: Tools - VSCode, Postman, Sublime Text, PhpStorm, Valet, Docker, Mac and Linux.
 - 😄 Pronouns: He
 
 
