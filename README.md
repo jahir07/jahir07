@@ -31,19 +31,20 @@
 I’m a passionate developer specializing in PHP, Laravel, WordPress, Vue.js, Nuxt.js, Alpine.js, React.js, TailwindCSS, Bootstrap, and System Architecture. I love solving complex problems, building scalable applications, and optimizing performance.
 
 💻 What I Do:
-	•	Develop custom WordPress plugins, themes, and complex Laravel applications.
-	•	Work with APIs (in-house, end-user products, and third-party consumers).
-	•	Focus on clean, maintainable, and scalable code.
+• Develop custom WordPress plugins, themes, and complex Laravel applications.
+• Work with APIs (in-house, end-user products, and third-party consumers).
+• Focus on clean, maintainable, and scalable code.
 
 🎯 Currently Exploring:
-	•	DevOps (Docker, AWS, CI/CD).
-	•	Advanced cloud architecture and server optimization.
+• DevOps (Docker, AWS, CI/CD).
+• Advanced cloud architecture and server optimization.
 
 🛠 Tech & Tools I Use:
 VS Code, PhpStorm, Postman, Sublime Text, Valet, Docker, Mac, Linux.
 
 📜 Certifications & Achievements:
 ✔️ Codeable Certified WordPress Expert
+
 ✔️ Extensive experience with WooCommerce, ACF, and WordPress security
 
 📫 Let’s Connect!
