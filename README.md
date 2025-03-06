@@ -57,8 +57,6 @@ When I’m not coding, I enjoy playing **FIFA, Mafia**, and traveling!
 ### Numbers
 ![jahir07's Stats](https://github-readme-stats.vercel.app/api?username=jahir07&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![jahir07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahir07&theme=darcula&hide_border=true)
-
 ![jahir07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahir07&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
