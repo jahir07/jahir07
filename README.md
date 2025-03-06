@@ -26,32 +26,33 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-🚀 Full Stack Developer | Codeable Certified WordPress Expert
+🚀 **Full Stack Developer | Codeable Certified WordPress Expert**  
 
-I’m a passionate developer specializing in PHP, Laravel, WordPress, Vue.js, Nuxt.js, Alpine.js, React.js, TailwindCSS, Bootstrap, and System Architecture. I love solving complex problems, building scalable applications, and optimizing performance.
+I’m a passionate developer specializing in **PHP, Laravel, WordPress, Vue.js, Nuxt.js, Alpine.js, React.js, TailwindCSS, Bootstrap, and System Architecture**.  
+I love solving complex problems, building scalable applications, and optimizing performance.  
 
-💻 What I Do:
-• Develop custom WordPress plugins, themes, and complex Laravel applications.
-• Work with APIs (in-house, end-user products, and third-party consumers).
-• Focus on clean, maintainable, and scalable code.
+## 💻 What I Do  
+- Develop **custom WordPress plugins, themes**, and complex **Laravel applications**.  
+- Work with **APIs** (in-house, end-user products, and third-party consumers).  
+- Focus on **clean, maintainable, and scalable code**.  
 
-🎯 Currently Exploring:
-• DevOps (Docker, AWS, CI/CD).
-• Advanced cloud architecture and server optimization.
+## 🎯 Currently Exploring  
+- **DevOps** (Docker, AWS, CI/CD).  
+- **Advanced cloud architecture** and server optimization.  
 
-🛠 Tech & Tools I Use:
-VS Code, PhpStorm, Postman, Sublime Text, Valet, Docker, Mac, Linux.
+## 🛠 Tech & Tools I Use  
+**VS Code**, **PhpStorm**, **Postman**, **Sublime Text**, **Valet**, **Docker**, **Mac**, **Linux**.  
 
-📜 Certifications & Achievements:
-✔️ Codeable Certified WordPress Expert
+## 📜 Certifications & Achievements  
+✔️ **Codeable Certified WordPress Expert**  
+✔️ Extensive experience with **WooCommerce, ACF, Elementor, Tutorlms, Learndash etc and as well as WordPress security**  
 
-✔️ Extensive experience with WooCommerce, ACF, and WordPress security
+## 📫 Let’s Connect!  
+I’m open to **remote and relocation opportunities**.  
+Feel free to reach out at **[mamun3d at gmail dot com]**  
 
-📫 Let’s Connect!
-I’m open to remote and relocation opportunities. Feel free to reach out at [mamun3d at gmail dot com]
-
-🎮 Fun Fact: When I’m not coding, I enjoy playing games like FIFA, Mafia, etc and traveling!
-
+## 🎮 Fun Fact  
+When I’m not coding, I enjoy playing **FIFA, Mafia**, and traveling!  
 
 ### Numbers
 ![jahir07's Stats](https://github-readme-stats.vercel.app/api?username=jahir07&theme=darcula&show_icons=true&hide_border=true&count_private=true)
