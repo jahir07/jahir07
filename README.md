@@ -26,22 +26,30 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for PHP, Laravel, WordPress, Alpine.js, Vue.js, React.js, TailwindCSS, Bootstrap and System Architecture.
+🚀 Full Stack Developer | Codeable Certified WordPress Expert
 
-Currently, **I'm open to work and employment opportunities**.
+I’m a passionate developer specializing in PHP, Laravel, WordPress, Vue.js, Nuxt.js, Alpine.js, React.js, TailwindCSS, Bootstrap, and System Architecture. I love solving complex problems, building scalable applications, and optimizing performance.
 
-I Actively code on PHP, Laravel, Vuejs, Nuxtjs, WordPress themes and plugins, and APIs (in-house, end user products, and consumers) every day.
+💻 What I Do:
+	•	Develop custom WordPress plugins, themes, and complex Laravel applications.
+	•	Work with APIs (in-house, end-user products, and third-party consumers).
+	•	Focus on clean, maintainable, and scalable code.
 
-I love to Play Games specially Fifa and was a big fan of Humanyun Ahmed (Bangladeshi novelist).
+🎯 Currently Exploring:
+	•	DevOps (Docker, AWS, CI/CD).
+	•	Advanced cloud architecture and server optimization.
 
-- 🔭 I’m currently creating wp plugins, wp themes and laravel application.
-- 🌱 I’m currently learning many things in deeply specially devOps, AWS, Docker etc.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about PHP, WordPress, Laravel, HTML & CSS.
-- 📫 I am just one mail away - [mamun3d at gmail dot com]
-- :partying_face: Fun fact: I love to play video games like mafia, fifa.. 😄, I love adda & travel.
-- :wrench: Tools - VSCode, Postman, Sublime Text, PhpStorm, Valet, Docker, Mac and Linux.
-- 😄 Pronouns: He
+🛠 Tech & Tools I Use:
+VS Code, PhpStorm, Postman, Sublime Text, Valet, Docker, Mac, Linux.
+
+📜 Certifications & Achievements:
+✔️ Codeable Certified WordPress Expert
+✔️ Extensive experience with WooCommerce, ACF, and WordPress security
+
+📫 Let’s Connect!
+I’m open to remote and relocation opportunities. Feel free to reach out at [mamun3d at gmail dot com]
+
+🎮 Fun Fact: When I’m not coding, I enjoy playing games like FIFA, Mafia, etc and traveling!
 
 
 ### Numbers
